@@ -2,7 +2,6 @@
 #define MPID_h
 
 #include <Arduino.h>
-#include <digitalWriteFast.h>
 
 class MPID{
 	public:
